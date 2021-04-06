@@ -1,0 +1,9 @@
+{
+	"name": "adfmansi12",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ca32900-ae93-48da-9ff5-8beb9fcea88d",
+		"tenantId": "850006e0-4366-4135-89ba-fc21ea643929"
+	}
+}

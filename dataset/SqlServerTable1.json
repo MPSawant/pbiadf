@@ -1,0 +1,18 @@
+{
+	"name": "SqlServerTable1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "onPremSqlServer",
+			"type": "LinkedServiceReference",
+			"parameters": {
+				"ServerName": "DESKTOP-S48LALA\\MANSI",
+				"DatabaseName": "AdventureWorks2012",
+				"Username": "DELL"
+			}
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
